@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -210,7 +210,7 @@
     <div class="feedback-rows" style="display:flex; flex-direction:column; gap:1rem; max-width:1000px; margin:0 auto;">
       <!-- Row 1: 2 images -->
       <div style="display:flex; justify-content:center; gap:1rem;">
-        <img src="feedback1.jpeg.jpeg" alt="Feedback 1" class="fade-img" style="width:48%; animation-delay:0s;"/>
+        <img src="feedback1.jpeg" alt="Feedback 1" class="fade-img" style="width:48%; animation-delay:0s;"/>
         <img src="feedback2.jpeg.jpeg" alt="Feedback 2" class="fade-img" style="width:48%; animation-delay:0.5s;"/>
       </div>
       <!-- Row 2: 3 images -->
